@@ -1,1 +1,1 @@
-https://jaguarsoftdev.com/api/getgeneralapp/del
+http://jaguarsoftdev.com/api/getgeneralapp/del
