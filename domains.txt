@@ -1,3 +1,1 @@
-https://backup1.example.com/api/getgeneralapp/del
-https://backup2.example.com/api/getgeneralapp/del
-https://backup3.example.com/api/getgeneralapp/del
+https://jaguarsoftdev.com/api/getgeneralapp/del
