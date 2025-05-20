@@ -1,1 +1,1 @@
-http://jaguarsoftdev.com/api/getgeneralapp/jet
+http://allofappgit.com/api/getgeneralapp/jet
