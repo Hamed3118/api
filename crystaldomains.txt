@@ -1,1 +1,1 @@
-http://jaguarsoftdev.com/api/getgeneralapp/crystal
+http://allofappgit.com/api/getgeneralapp/crystal
