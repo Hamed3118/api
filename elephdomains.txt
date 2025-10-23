@@ -1,4 +1,4 @@
-http://allofappgit.com/api/getgeneralapp/del
-http://gamaformylife.com/api/getgeneralapp/del
-http://gamadev2024.com/api/getgeneralapp/del
-http://gamatube2024.com/api/getgeneralapp/del
+http://allofappgit.com/api/getgeneralapp/eleph
+http://gamaformylife.com/api/getgeneralapp/eleph
+http://gamadev2024.com/api/getgeneralapp/eleph
+http://gamatube2024.com/api/getgeneralapp/eleph
