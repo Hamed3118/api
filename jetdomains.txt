@@ -1,4 +1,3 @@
-http://allofappgit.com/api/getgeneralapp/jet
-http://gamaformylife.com/api/getgeneralapp/jet
-http://gamadev2024.com/api/getgeneralapp/jet
-http://gamatube2024.com/api/getgeneralapp/jet
+http://sharkdevtube.com/api/getgeneralapp/jet
+http://sharkisawsome.com/api/getgeneralapp/jet
+http://sharkismylife.com/api/getgeneralapp/jet
