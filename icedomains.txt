@@ -1,4 +1,3 @@
-http://allofappgit.com/api/getgeneralapp/ice
-http://gamaformylife.com/api/getgeneralapp/ice
-http://gamadev2024.com/api/getgeneralapp/ice
-http://gamatube2024.com/api/getgeneralapp/ice
+http://sharkdevtube.com/api/getgeneralapp/ice
+http://sharkisawsome.com/api/getgeneralapp/ice
+http://sharkismylife.com/api/getgeneralapp/ice
