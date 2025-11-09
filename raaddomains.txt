@@ -1,4 +1,3 @@
-http://allofappgit.com/api/getgeneralapp/raad
-http://gamaformylife.com/api/getgeneralapp/raad
-http://gamadev2024.com/api/getgeneralapp/raad
-http://gamatube2024.com/api/getgeneralapp/raad
+http://sharkdevtube.com/api/getgeneralapp/raad
+http://sharkisawsome.com/api/getgeneralapp/raad
+http://sharkismylife.com/api/getgeneralapp/raad
