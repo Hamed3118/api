@@ -1,4 +1,3 @@
-http://allofappgit.com/api/getgeneralapp/ghost
-http://gamaformylife.com/api/getgeneralapp/ghost
-http://gamadev2024.com/api/getgeneralapp/ghost
-http://gamatube2024.com/api/getgeneralapp/ghost
+http://sharkdevtube.com/api/getgeneralapp/ghost
+http://sharkisawsome.com/api/getgeneralapp/ghost
+http://sharkismylife.com/api/getgeneralapp/ghost
