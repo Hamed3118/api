@@ -1,10 +1,1 @@
-http://app-appha.rest/api/getgeneralapp/test
-http://java-appha.rest/api/getgeneralapp/test
-http://kot-appha.rest/api/getgeneralapp/test
-http://js-appha.rest/api/getgeneralapp/test
-http://code-appha.rest/api/getgeneralapp/test
-http://key-appha.rest/api/getgeneralapp/test
-http://num-appha.rest/api/getgeneralapp/test
-http://hub-appha.rest/api/getgeneralapp/test
-http://trip-appha.rest/api/getgeneralapp/test
-http://divar-appha.rest/api/getgeneralapp/test
+http://ghost-backend.rest/api/getgeneralapp/test
