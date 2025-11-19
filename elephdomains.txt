@@ -1,3 +1,10 @@
-http://app-tgrapp.com/api/getgeneralapp/eleph
-http://java-tgrapp.com/api/getgeneralapp/eleph
-http://kot-tgrapp.com/api/getgeneralapp/eleph
+http://app-appha.rest/api/getgeneralapp/eleph
+http://java-appha.rest/api/getgeneralapp/eleph
+http://kot-appha.rest/api/getgeneralapp/eleph
+http://js-appha.rest/api/getgeneralapp/eleph
+http://code-appha.rest/api/getgeneralapp/eleph
+http://key-appha.rest/api/getgeneralapp/eleph
+http://num-appha.rest/api/getgeneralapp/eleph
+http://hub-appha.rest/api/getgeneralapp/eleph
+http://trip-appha.rest/api/getgeneralapp/eleph
+http://divar-appha.rest/api/getgeneralapp/eleph
