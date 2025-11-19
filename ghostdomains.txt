@@ -1,3 +1,10 @@
-http://app-tgrapp.com/api/getgeneralapp/ghost
-http://java-tgrapp.com/api/getgeneralapp/ghost
-http://kot-tgrapp.com/api/getgeneralapp/ghost
+http://app-appha.rest/api/getgeneralapp/ghost
+http://java-appha.rest/api/getgeneralapp/ghost
+http://kot-appha.rest/api/getgeneralapp/ghost
+http://js-appha.rest/api/getgeneralapp/ghost
+http://code-appha.rest/api/getgeneralapp/ghost
+http://key-appha.rest/api/getgeneralapp/ghost
+http://num-appha.rest/api/getgeneralapp/ghost
+http://hub-appha.rest/api/getgeneralapp/ghost
+http://trip-appha.rest/api/getgeneralapp/ghost
+http://divar-appha.rest/api/getgeneralapp/ghost
