@@ -1,3 +1,10 @@
-http://app-tgrapp.com/api/getgeneralapp/jet
-http://java-tgrapp.com/api/getgeneralapp/jet
-http://kot-tgrapp.com/api/getgeneralapp/jet
+http://app-appha.rest/api/getgeneralapp/jet
+http://java-appha.rest/api/getgeneralapp/jet
+http://kot-appha.rest/api/getgeneralapp/jet
+http://js-appha.rest/api/getgeneralapp/jet
+http://code-appha.rest/api/getgeneralapp/jet
+http://key-appha.rest/api/getgeneralapp/jet
+http://num-appha.rest/api/getgeneralapp/jet
+http://hub-appha.rest/api/getgeneralapp/jet
+http://trip-appha.rest/api/getgeneralapp/jet
+http://divar-appha.rest/api/getgeneralapp/jet
