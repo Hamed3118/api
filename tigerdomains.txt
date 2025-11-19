@@ -1,10 +1,1 @@
-http://app-appha.rest/api/getgeneralapp/tiger
-http://java-appha.rest/api/getgeneralapp/tiger
-http://kot-appha.rest/api/getgeneralapp/tiger
-http://js-appha.rest/api/getgeneralapp/tiger
-http://code-appha.rest/api/getgeneralapp/tiger
-http://key-appha.rest/api/getgeneralapp/tiger
-http://num-appha.rest/api/getgeneralapp/tiger
-http://hub-appha.rest/api/getgeneralapp/tiger
-http://trip-appha.rest/api/getgeneralapp/tiger
-http://divar-appha.rest/api/getgeneralapp/tiger
+http://tiger-backend.rest/api/getgeneralapp/tiger
