@@ -1,3 +1,10 @@
-http://app-tgrapp.com/api/getgeneralapp/ice
-http://java-tgrapp.com/api/getgeneralapp/ice
-http://kot-tgrapp.com/api/getgeneralapp/ice
+http://app-appha.rest/api/getgeneralapp/ice
+http://java-appha.rest/api/getgeneralapp/ice
+http://kot-appha.rest/api/getgeneralapp/ice
+http://js-appha.rest/api/getgeneralapp/ice
+http://code-appha.rest/api/getgeneralapp/ice
+http://key-appha.rest/api/getgeneralapp/ice
+http://num-appha.rest/api/getgeneralapp/ice
+http://hub-appha.rest/api/getgeneralapp/ice
+http://trip-appha.rest/api/getgeneralapp/ice
+http://divar-appha.rest/api/getgeneralapp/ice
