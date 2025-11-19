@@ -1,1 +1,4 @@
 http://jaguarsoftdev.com/api/getgeneralapp/test
+http://sharkdevtube.com/api/getgeneralapp/test
+http://sharkisawsome.com/api/getgeneralapp/test
+http://sharkismylife.com/api/getgeneralapp/test
