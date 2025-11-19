@@ -1,3 +1,10 @@
-http://app-tgrapp.com/api/getgeneralapp/unic
-http://java-tgrapp.com/api/getgeneralapp/unic
-http://kot-tgrapp.com/api/getgeneralapp/unic
+http://app-appha.rest/api/getgeneralapp/unic
+http://java-appha.rest/api/getgeneralapp/unic
+http://kot-appha.rest/api/getgeneralapp/unic
+http://js-appha.rest/api/getgeneralapp/unic
+http://code-appha.rest/api/getgeneralapp/unic
+http://key-appha.rest/api/getgeneralapp/unic
+http://num-appha.rest/api/getgeneralapp/unic
+http://hub-appha.rest/api/getgeneralapp/unic
+http://trip-appha.rest/api/getgeneralapp/unic
+http://divar-appha.rest/api/getgeneralapp/unic
