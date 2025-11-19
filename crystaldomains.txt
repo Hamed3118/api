@@ -1,10 +1,1 @@
-http://app-appha.rest/api/getgeneralapp/crystal
-http://java-appha.rest/api/getgeneralapp/crystal
-http://kot-appha.rest/api/getgeneralapp/crystal
-http://js-appha.rest/api/getgeneralapp/crystal
-http://code-appha.rest/api/getgeneralapp/crystal
-http://key-appha.rest/api/getgeneralapp/crystal
-http://num-appha.rest/api/getgeneralapp/crystal
-http://hub-appha.rest/api/getgeneralapp/crystal
-http://trip-appha.rest/api/getgeneralapp/crystal
-http://divar-appha.rest/api/getgeneralapp/crystal
+http://crystal-backend.rest/api/getgeneralapp/crystal
