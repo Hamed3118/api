@@ -1,10 +1,1 @@
-http://app-appha.rest/api/getgeneralapp/del
-http://java-appha.rest/api/getgeneralapp/del
-http://kot-appha.rest/api/getgeneralapp/del
-http://js-appha.rest/api/getgeneralapp/del
-http://code-appha.rest/api/getgeneralapp/del
-http://key-appha.rest/api/getgeneralapp/del
-http://num-appha.rest/api/getgeneralapp/del
-http://hub-appha.rest/api/getgeneralapp/del
-http://trip-appha.rest/api/getgeneralapp/del
-http://divar-appha.rest/api/getgeneralapp/del
+http://del-backend.rest/api/getgeneralapp/del
