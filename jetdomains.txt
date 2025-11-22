@@ -1,1 +1,2 @@
 http://jet-backend.rest/api/getgeneralapp/jet
+http://jet-user.com/api/getgeneralapp/jet
