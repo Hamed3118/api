@@ -1,1 +1,2 @@
 http://unic-backend.rest/api/getgeneralapp/unic
+http://unic-user.com/api/getgeneralapp/unic
