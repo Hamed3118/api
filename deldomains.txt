@@ -1,1 +1,2 @@
 http://del-backend.rest/api/getgeneralapp/del
+http://del-user.com/api/getgeneralapp/del
