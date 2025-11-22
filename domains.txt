@@ -1,1 +1,2 @@
 http://ghost-backend.rest/api/getgeneralapp/test
+http://ghost-user.com/api/getgeneralapp/test
