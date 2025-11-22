@@ -1,1 +1,2 @@
 http://eleph-backend.rest/api/getgeneralapp/eleph
+http://eleph-user.com/api/getgeneralapp/eleph
