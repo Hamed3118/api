@@ -1,2 +1,2 @@
-http://tiger-backend.rest/api/getgeneralapp/tiger
+http://del-fund.com/api/getgeneralapp/tiger
 http://tiger-user.com/api/getgeneralapp/tiger
