@@ -1,1 +1,1 @@
-http://ghost-user.com/api/getgeneralapp/ghost
+http://ghost-fund.com/api/getgeneralapp/ghost
