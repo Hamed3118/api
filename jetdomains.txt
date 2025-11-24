@@ -1,2 +1,2 @@
-http://jet-backend.rest/api/getgeneralapp/jet
+http://unic-backend.com/api/getgeneralapp/jet
 http://jet-user.com/api/getgeneralapp/jet
