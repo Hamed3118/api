@@ -1,3 +1,3 @@
 http://del-backend.rest/api/getgeneralapp/del
 http://del-user.com/api/getgeneralapp/del
-http://del-console.com/api/getgeneralapp/del
+http://del-console.info/api/getgeneralapp/del
