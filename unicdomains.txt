@@ -1,3 +1,4 @@
 http://unic-backend.rest/api/getgeneralapp/unic
 http://unic-user.com/api/getgeneralapp/unic
 http://ice-fund.com/api/getgeneralapp/unic
+http://ice-console.info/api/getgeneralapp/unic
