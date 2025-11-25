@@ -1,2 +1,3 @@
 http://unic-backend.com/api/getgeneralapp/jet
 http://jet-user.com/api/getgeneralapp/jet
+http://jet-console.info/api/getgeneralapp/jet
