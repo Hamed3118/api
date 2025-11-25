@@ -1,2 +1,3 @@
 http://crystal-backend.rest/api/getgeneralapp/crystal
 http://crystal-user.com/api/getgeneralapp/crystal
+http://crystal-console.info/api/getgeneralapp/crystal
