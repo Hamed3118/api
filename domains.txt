@@ -1,1 +1,1 @@
-http://crystal-ghosijan.rest/api/getgeneralapp/test
+http://del-ghosijan.rest/api/getgeneralapp/test
