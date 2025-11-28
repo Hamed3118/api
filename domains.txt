@@ -1,3 +1,1 @@
-http://ghost-backend.rest/api/getgeneralapp/test
-http://ghost-fund.com/api/getgeneralapp/test
-http://ghost-console.info/api/getgeneralapp/test
+http://app-ghosijan.rest/api/getgeneralapp/test
