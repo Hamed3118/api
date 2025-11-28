@@ -1,1 +1,1 @@
-http://eleph-ghosijan.rest/api/getgeneralapp/test
+http://ghost-ghosijan.rest/api/getgeneralapp/test
