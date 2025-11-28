@@ -1,2 +1,2 @@
-http://ghost-console.info/api/getgeneralapp/ghost
 http://ghost-fund.com/api/getgeneralapp/ghost
+http://ghost-console.info/api/getgeneralapp/ghost
