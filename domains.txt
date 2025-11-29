@@ -1,1 +1,1 @@
-http://key-ghosijan.rest/api/getgeneralapp/test
+http://kot-ghosijan.rest/api/getgeneralapp/test
