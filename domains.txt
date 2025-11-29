@@ -1,1 +1,1 @@
-http://ice-ghosijan.rest/api/getgeneralapp/test
+http://java-ghosijan.rest/api/getgeneralapp/test
