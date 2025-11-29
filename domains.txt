@@ -1,1 +1,1 @@
-http://unic-ghosijan.rest/api/getgeneralapp/test
+http://tiger-ghostfight.rest/api/getgeneralapp/test
