@@ -1,1 +1,1 @@
-http://eleph-ghostfight.rest/api/getgeneralapp/test
+http://del-ghostfight.rest/api/getgeneralapp/test
