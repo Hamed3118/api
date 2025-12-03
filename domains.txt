@@ -1,1 +1,1 @@
-http://crystal-ghostfight.rest/api/getgeneralapp/test
+http://ice-ghostfight.rest/api/getgeneralapp/test
