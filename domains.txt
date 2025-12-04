@@ -1,1 +1,1 @@
-http://code-ghostfight.rest/api/getgeneralapp/test
+http://key-ghostfight.rest/api/getgeneralapp/test
