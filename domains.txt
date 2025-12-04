@@ -1,1 +1,1 @@
-http://kot-ghostfight.rest/api/getgeneralapp/test
+http://js-ghostfight.rest/api/getgeneralapp/test
