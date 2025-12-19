@@ -1,1 +1,1 @@
-http://ghost-ghosttrust.info/api/getgeneralapp/test
+http://jet-ghosttrust.info/api/getgeneralapp/test
