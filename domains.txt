@@ -1,1 +1,1 @@
-http://tiger-ghosttrust.info/api/getgeneralapp/test
+http://ghost-ghosttrust.info/api/getgeneralapp/test
