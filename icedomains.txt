@@ -1,3 +1,4 @@
+http://ice-turn.com/api/getgeneralapp/ice
 http://ice-backend.rest/api/getgeneralapp/ice
 http://ice-user.com/api/getgeneralapp/ice
 http://ice-console.info/api/getgeneralapp/ice
