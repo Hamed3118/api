@@ -1,3 +1,4 @@
+http://tiger-turn.com/api/getgeneralapp/tiger
 http://del-fund.com/api/getgeneralapp/tiger
 http://tiger-user.com/api/getgeneralapp/tiger
 http://tiger-console.info/api/getgeneralapp/tiger
