@@ -1,3 +1,4 @@
+http://eleph-turn.com/api/getgeneralapp/eleph
 http://eleph-backend.rest/api/getgeneralapp/eleph
 http://eleph-user.com/api/getgeneralapp/eleph
 http://eleph-fund.com/api/getgeneralapp/eleph
