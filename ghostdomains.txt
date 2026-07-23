@@ -1,1 +1,2 @@
-http://app-ghosijan.rest/api/getgeneralapp/test
+http://s1.greenwolfhub-dr.sbs/api/getgeneralapp/test
+http://s1.greenwolfhub-dr.sbs/api/getgeneralapp/ghost
